@@ -11,3 +11,11 @@
 > One monokai
 
 ## Semantic HTML
+
+## Additional Extension for VsCode
+
+> Image Preview (display the small image preview in gutter)
+> Color Highlighter (Visualizing color in css)
+> Auto Rename Tag (automatically change the closing tag when we change any elements on html)
+> Go to Setting, enable "auto closing tag" and vs code automatically close the tag
+> Live Server (automatically reload the page without referesh the browsers and create the local host server and port number for us )
