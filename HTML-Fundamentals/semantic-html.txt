@@ -4,3 +4,30 @@
 
 - <i> used in html3
 - <em> emphasis  used in html5 and it is an specific meaning of emphasis text
+
+- Why Semantic HTML is Important 
+> There are Multiple Reasons, So one of them is a search engine optimization,
+
+which basically means that a search engine such as Google
+
+will be able to understand the structure of your content.
+
+And therefore they will be better able to analyze
+
+what your content and what your webpage is all about.
+
+Also writing semantic HTML is extremely important for
+
+accessibility and especially for people
+
+who rely on screen readers to consume on web pages.
+
+- when we think about HTML,
+
+we should not only think about how it actually looks like
+
+in the browser,
+
+but even more about what these elements actually mean
+
+and what they stand for.
