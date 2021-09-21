@@ -7,3 +7,5 @@
 
 > Prettier
 > One monokai
+
+## Semantic HTML

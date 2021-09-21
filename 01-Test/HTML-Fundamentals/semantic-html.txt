@@ -1,0 +1,6 @@
+# Normal Element vs Semantic Element
+- <b>  element use in html3 and it is not a specific meaning
+- <strong>  element used in html5 and it is a specific meaning and seriousness in html5.html
+
+- <i> used in html3
+- <em> emphasis  used in html5 and it is an specific meaning of emphasis text
